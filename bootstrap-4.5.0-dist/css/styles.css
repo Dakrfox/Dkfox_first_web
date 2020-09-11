@@ -1,0 +1,97 @@
+body{
+	background: #000;
+}
+.services
+{
+	margin-top: 8.5%;
+	margin-left: 6%;
+	margin-right: 6%;
+	text-align: center;
+	color: #fff;
+
+
+}
+.oscurecer
+{
+	margin-top: 7.5%;
+	background-image:
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(../../img/Github/4.png);
+    height: 480px;
+
+    color: white;
+    padding-top: 7%;
+	margin-left: 6%;
+	margin-right: 6%;
+    width:auto;
+    text-align: center;
+}
+
+.Portafolio
+{
+	margin-top: 8.5%;
+	margin-left: 6%;
+	margin-right: 6%;
+	text-align: center;
+	color: #fff;
+}
+footer img
+{
+	max-width: 50px;
+	max-height: 50px;
+}
+footer
+{
+background: #000;
+margin-top: 5%;
+color: white;
+
+
+}
+a
+{
+	color: #fff;
+}
+.stillwork
+{
+	text-align: center;
+	margin-top: 20%;
+	color: white;
+	max-width: 720px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.stillwork h1
+{
+	border-bottom: white 1px solid;
+	margin-top: 10px;
+}
+.cliente
+{
+	margin-left: 6%;
+	margin-right: 6%;
+	color: white;
+	text-align: center;
+	margin-top: 8.5%;
+}
+.cliente h5
+{
+	margin-bottom: 5%;
+
+}
+.clientes
+{
+	margin-left: 6%;
+	margin-right: 6%;
+	color: white;
+	text-align: center;
+	margin-top: 8.5%;
+}
+.clientes h5
+{
+	margin-bottom: 5%;
+
+}
